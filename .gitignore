@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# React / Vite
+node_modules/
+dist/
+
+# Runtime data
+backend/vms.json
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Logs
+*.log
+
+# IDE settings
+.vscode/
+.idea/
